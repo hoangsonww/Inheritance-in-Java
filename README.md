@@ -1,1 +1,2 @@
 # Inheritance-in-Java
+I am uploading this project since this is my own, original work that I've spent a lot of time working on. These are programmed in Java and was done in Dr. Harold Connamacher in one of Case Western Reserve University's computer science classes. I also want to share my gained knowledge with you, and my work should not be taken as a way to cheat or take advantage of in your assignments. Please give credits to both me and Dr. Connamacher!
